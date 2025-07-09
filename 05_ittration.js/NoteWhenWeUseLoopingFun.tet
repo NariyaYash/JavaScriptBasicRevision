@@ -1,0 +1,7 @@
+forEach:  Use when you want to perform an action on each item in an array without returning a new array.
+
+map:      Use when you want to transform each item in an array and return a new array of the same length.
+
+filter:   Use when you want to select items based on a condition and return a new array with only those items.
+
+reduce:   Use when you want to combine all items in an array into a single value (e.g., sum, object, string).
